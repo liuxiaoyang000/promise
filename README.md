@@ -1,2 +1,2 @@
 # promise
-Promises/A+规范
+符合Promises/A+规范
